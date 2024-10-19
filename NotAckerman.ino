@@ -1,6 +1,6 @@
 /*
 
-This is a test program for the Mars Rover to see if the stepper motors, its drivers and all pereferals work as intended.
+This is a test program for the Mars Rover to see if the stepper motors, its drivers and all pereferals work as intended...
 
 #define VFdirPin PC0 A0           // HIGH = Clockwise = Vänstersväng pga växel. LOW blir högersväng
 #define HFdirPin PC1 A1           //
